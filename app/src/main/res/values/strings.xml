@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Cat Explorer</string>
+    <string name="cat_name">Nama Kucing</string>
+    <string name="description">Deskripsi</string>
+
+    <string-array name="data_name">
+        <item>Persia</item>
+        <item>Maine Coon</item>
+        <item>Siamese</item>
+        <item>Schottish Fold</item>
+        <item>Bengal</item>
+        <item>Sphynx</item>
+        <item>Ragdoll</item>
+        <item>British Sorthair</item>
+        <item>Ragamuffin</item>
+        <item>Norwegian Forest</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item> Kucing Persia berasal dari Iran (dulu Persia), dan dianggap sebagai salah satu ras kucing tertua. Mereka pertama kali diperkenalkan ke Eropa pada abad ke-17. Kucing Persia memiliki bulu panjang, wajah pesek, dan cenderung memiliki sifat yang tenang dan lembut. Mereka sangat populer di banyak negara karena keindahan dan keanggunannya. \n\nKucing Persia adalah salah satu ras kucing tertua di dunia yang berasal dari Iran (dulu Persia). Mereka telah ada sejak ribuan tahun yang lalu dan sering kali dianggap sebagai simbol keindahan dan kemewahan. Dikenal dengan bulu panjang, wajah pesek, dan mata besar yang menawan, kucing Persia menjadi favorit di banyak rumah di seluruh dunia. Mereka sering kali dihargai karena sifat yang tenang dan lembutnya, membuat mereka menjadi kucing peliharaan yang populer.</item>
+        <item>Maine Coon adalah ras kucing asli Amerika Serikat. Sebagian besar percaya bahwa mereka berasal dari kucing domestik yang dikawinkan dengan kucing liar di Maine, AS. Maine Coon adalah kucing terbesar, memiliki bulu panjang, ekor tebal, dan telinga yang berkumis. Mereka ramah, cerdas, dan mudah beradaptasi dengan lingkungan. \n\nMaine Coon adalah salah satu ras kucing terbesar yang berasal dari Amerika Serikat. Meskipun tidak ada bukti pasti tentang asal-usul mereka, legenda mengatakan bahwa mereka adalah hasil persilangan antara kucing domestik dengan kucing liar di Maine. Maine Coon dikenal dengan bulu panjang, ekor tebal, dan ukuran tubuh yang besar. Mereka adalah kucing yang ramah, cerdas, dan mudah beradaptasi dengan lingkungan baru.</item>
+        <item>Kucing Siamese berasal dari Thailand (dulu Siam) dan memiliki sejarah yang kaya di kerajaan Thailand. Mereka diperkenalkan ke Barat pada abad ke-19. Siamese memiliki tubuh yang ramping, mata biru tajam, dan bulu pendek yang halus. Mereka cerdas, aktif, dan memiliki suara yang kuat.\n\nKucing Siamese adalah salah satu ras kucing paling terkenal dan dihormati di dunia. Mereka berasal dari Thailand (dulu Siam) dan memiliki sejarah yang kaya di kerajaan Thailand. Siamese memiliki tubuh yang ramping, mata biru tajam, dan bulu pendek yang halus. Mereka cerdas, aktif, dan memiliki suara yang kuat yang sering kali mereka gunakan untuk berkomunikasi dengan pemiliknya.</item>
+        <item>Scottish Fold pertama kali ditemukan di Skotlandia pada tahun 1961. Mereka ditemukan oleh peternak lokal dan dikembangkan sebagai ras yang dikenal saat ini. Ciri khas Scottish Fold adalah telinga mereka yang melipat ke depan. Mereka memiliki kepribadian yang tenang, ramah, dan suka bermain.\n\nScottish Fold adalah ras kucing yang unik dengan telinga yang melipat ke depan. Mereka pertama kali ditemukan di Skotlandia pada tahun 1961 oleh peternak lokal. Kucing Scottish Fold memiliki kepribadian yang tenang, ramah, dan suka bermain. Mereka menjadi populer di seluruh dunia karena penampilan mereka yang lucu dan sifat yang mudah didekati.</item>
+        <item>Kucing Bengal adalah hasil dari persilangan antara kucing domestik dengan kucing liar Asia (leopard cat). Mereka pertama kali dikembangkan pada tahun 1960-an. Bengal memiliki bulu yang berkilau seperti kulit macan. Mereka aktif, cerdas, dan suka bermain air.\n\nBengal adalah hasil dari persilangan antara kucing domestik dengan kucing liar Asia (leopard cat). Mereka pertama kali dikembangkan pada tahun 1960-an oleh peternak di Amerika Serikat. Bengal memiliki bulu yang berkilau seperti kulit macan, dengan corak yang menarik dan warna yang mencolok. Mereka aktif, cerdas, dan suka bermain, sering kali menunjukkan sifat yang mirip dengan kucing liar.</item>
+        <item>Sphynx adalah hasil dari mutasi genetik alami yang pertama kali terjadi di Kanada pada tahun 1966. Mereka adalah ras kucing tanpa bulu pertama yang diakui. Meskipun mereka tidak memiliki bulu, Sphynx memiliki kulit yang lembut dan suka bermain. Mereka ramah, energik, dan cerdas.\n\nSphynx adalah ras kucing tanpa bulu yang pertama kali ditemukan di Kanada pada tahun 1966. Meskipun mereka tidak memiliki bulu, Sphynx memiliki kulit yang lembut dan hangat. Mereka adalah kucing yang ramah, energik, dan cerdas. Sphynx sering kali menjadi pusat perhatian karena penampilan mereka yang unik dan kepribadian yang menarik.</item>
+        <item>Ragdoll pertama kali dikembangkan di Amerika Serikat pada tahun 1960-an oleh seorang wanita bernama Ann Baker. Mereka merupakan hasil persilangan antara kucing Angora, Persia, dan Burma. Ragdoll adalah kucing yang besar dengan bulu panjang dan lembut. Mereka memiliki sifat yang tenang, ramah, dan mudah dijinakkan.\n\nRagdoll adalah kucing besar dengan bulu panjang dan lembut yang pertama kali dikembangkan di Amerika Serikat pada tahun 1960-an. Mereka dikenal dengan sifat yang tenang, ramah, dan mudah dijinakkan. Ragdoll adalah kucing yang ideal untuk keluarga karena mereka suka bermain dengan anak-anak dan mudah beradaptasi dengan berbagai situasi.</item>
+        <item>British Shorthair adalah salah satu ras kucing tertua yang berasal dari Britania Raya. Mereka pertama kali dibawa oleh orang Romawi ke pulau Britania. British Shorthair memiliki tubuh yang gemuk dengan bulu pendek dan padat. Mereka adalah kucing yang tenang, santai, dan suka tidur.\n\nBritish Shorthair adalah salah satu ras kucing tertua yang berasal dari Britania Raya. Mereka pertama kali dibawa oleh orang Romawi ke pulau Britania pada abad ke-1 Masehi. British Shorthair memiliki tubuh yang gemuk dengan bulu pendek dan padat. Mereka adalah kucing yang tenang, santai, dan suka tidur.</item>
+        <item>Ragamuffin adalah ras kucing yang relatif baru, yang dikembangkan dari Ragdoll. Mereka pertama kali diakui sebagai ras tersendiri pada tahun 1994. Ragamuffin adalah kucing yang besar dengan bulu panjang dan lembut. Mereka ramah, suka bermain, dan mudah beradaptasi dengan lingkungan baru.\n\nRagamuffin adalah ras kucing yang relatif baru, yang dikembangkan dari Ragdoll. Mereka adalah kucing besar dengan bulu panjang dan lembut yang sering kali memiliki warna dan corak yang bervariasi. Ragamuffin adalah kucing yang ramah, suka bermain, dan mudah beradaptasi dengan lingkungan baru.</item>
+        <item>Kucing Norwegian Forest, atau Norsk Skogkatt, berasal dari Norwegia dan telah ada sejak zaman Viking. Mereka dikenal sebagai kucing hutan Norwegia. Norwegian Forest memiliki bulu tebal dan ekor yang lebat. Mereka adalah kucing yang tangguh, mandiri, dan suka menjelajahi alam.\n\nNorwegian Forest, atau Norsk Skogkatt, adalah ras kucing yang berasal dari Norwegia dan telah ada sejak zaman Viking. Mereka dikenal sebagai kucing hutan Norwegia karena kemampuan mereka dalam berburu di lingkungan yang keras. Norwegian Forest memiliki bulu tebal dan ekor yang lebat, serta kepribadian yang tangguh, mandiri, dan suka menjelajahi alam.</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/persia</item>
+        <item>@drawable/main_coon</item>
+        <item>@drawable/siamese</item>
+        <item>@drawable/scottish_fold</item>
+        <item>@drawable/bengal</item>
+        <item>@drawable/sphynx</item>
+        <item>@drawable/ragdoll</item>
+        <item>@drawable/british_sorthair</item>
+        <item>@drawable/ragamuffin</item>
+        <item>@drawable/norwegian_forest</item>
+    </integer-array>
+
+    <string name="about">About</string>
+    <string name="app_name_splash">Cat Explorer</string>
+
+    <string name="namaku">Hilal Fauzan Azhar</string>
+    <string name="emailku">hilalfauzan@student.ub.ac.id</string>
+    <string name="tentangku">About Me</string>
+</resources>
